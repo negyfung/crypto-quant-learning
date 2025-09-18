@@ -32,10 +32,15 @@
 
 ---
 
+## 📌 关联文件
+- 策略代码：[strategies/ma_cross.pine](strategies/ma_cross.pine)  
+
+---
+
 ## 📌 GitHub 上传步骤  
 在 `learning` 文件夹下运行：  
 
 ```bash
 git add day1.md
-git commit -m "Day 1 学习记录：下载环境 + 策略编写 + 回测"
+git commit -m "Update Day 1 学习记录：添加关联文件"
 git push origin main
